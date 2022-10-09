@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define max 50
-
-
+// Not completed.
 
 int main(){
     int choice;
